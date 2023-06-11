@@ -1,0 +1,8 @@
+loginText = '//h5[normalize-space()="Login"]'
+unameField = '//input[@placeholder="Username"]'
+pwdField = '//input[@placeholder="Password"]'
+loginBtn = '(//button[normalize-space()="Login"])[1]'
+forgotPwdLink = '//p[@class="oxd-text oxd-text--p orangehrm-login-forgot-header"]'
+dashboardPage = '//h6[normalize-space()="Dashboard"]'
+requiredErr = '(//span[@class="oxd-text oxd-text--span oxd-input-field-error-message oxd-input-group__message"][normalize-space()="Required"])[1]'
+wrongData = '//div[@role="alert"]'
